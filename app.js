@@ -18,6 +18,7 @@ function version1()
 {
 	console.log('The Version 1 work is going on...');
 	console.log('So far So Good!');
+	console.log('Added Permanent Login Credentials on my GNU/Lnux');
 }
 		
 		console.log("Hello world");
