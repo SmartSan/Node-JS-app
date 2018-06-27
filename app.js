@@ -20,8 +20,16 @@ function version1()
 	console.log('So far So Good!');
 	console.log('Added Permanent Login Credentials on my GNU/Lnux');
 }
-		
+
+function toDos()
+{
+  	console.log('Adding from the Mr.Cutie Little LapBook');
+	console.log('Need to set up helper log credentials on Lapbook as well :-)');
+}
+
+
 		console.log("Hello world");
 something();
 aBigNewFeature();
 version1();
+toDos();
