@@ -25,6 +25,7 @@ function toDos()
 {
   	console.log('Adding from the Mr.Cutie Little LapBook');
 	console.log('Need to set up helper log credentials on Lapbook as well :-)');
+	console.log('Used Putty and Open ssh to add Lapbook as fingerprint. hey its awesome and fun to learn Programming at its best way');
 }
 
 
