@@ -33,6 +33,7 @@ function toDos()
 
 
 		console.log("Hello world");
+		console.log("Artificial Intelligence, Machine Learning, Deep Learning");
 something();
 aBigNewFeature();
 version1();
