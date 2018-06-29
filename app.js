@@ -27,6 +27,8 @@ function toDos()
 	console.log('Need to set up helper log credentials on Lapbook as well :-)');
 	console.log('Used Putty and Open ssh to add Lapbook as fingerprint. hey its awesome and fun to learn Programming at its best way');
 	console.log('Installed NPM i.e Node Package Manager...It  is so  cool <3 :-)');
+	console.log('Diff btwn Library and Framework');
+
 }
 
 
