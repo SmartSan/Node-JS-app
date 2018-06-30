@@ -36,6 +36,7 @@ function toDos()
 function DoableDreams()
 {
        console.log('Do what you can');
+       console.log('Playground image uploader function to write');
 }
 
 
